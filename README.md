@@ -52,3 +52,5 @@ Fish prompt: Minimalist
 Default window size: 64x18
 
 ## Screenshot
+
+![image](https://github.com/angieaaw/dotfiles/blob/main/HugeDomains_com_upscayl_4x_digital-art-4x.png)

@@ -34,7 +34,7 @@ System Sounds: Ocean
 
 Splash Screen: openSUSE (default)
 
-SDDM theme: Breeze (default)
+SDDM theme: Tidy SDDM (Gruvbox Light/green)
 
 
 
